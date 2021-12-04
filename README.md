@@ -1,6 +1,8 @@
 # Noobtown
-...stumbles in.
+...stumbles into.
+
 My first headscratch at what a Repository is...
-Decades of real world experience, moments of meta.
+
+Decades of real world experience, a few brief moments of meta.
 
 Favourite hobby: growing my own coffee.
